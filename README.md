@@ -5,33 +5,28 @@
 ---
 
 ## 🔥 About Me  
-💻 Passionate **Frontend Developer** with expertise in **Next.js, React.js, and modern JavaScript**.  
-⚡ Skilled in building **secure, scalable, and high-performance** applications.  
-🌱 Currently exploring **Advanced Fullstack Development** (MERN + DevOps).  
-🤝 Open to collaborations on **innovative projects & startups**.  
+💻 Experienced **Frontend Developer** specializing in **React.js & Next.js** with a strong foundation in modern **JavaScript (ES6+)**.  
+⚡ Skilled in building **secure, scalable, and high-performance** user interfaces.  
+🎨 Passionate about creating **pixel-perfect, accessible, and user-friendly** designs.  
+🤝 Open to collaborating on innovative projects that push web technology forward.  
 
 ---
 
 ## 🛠️ Tech Stack  
 
-### 💻 Languages  
+### 💻 Languages & Core  
 <p align="left"> 
   <img src="https://skillicons.dev/icons?i=js,ts,html,css" />
 </p>
 
-### 🎨 Frontend  
+### 🎨 Frontend Frameworks & Libraries  
 <p align="left"> 
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap,figma" />
-</p>
-
-### ⚙️ Backend & Databases  
-<p align="left"> 
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap" />
 </p>
 
 ### 🧰 Tools & Platforms  
 <p align="left"> 
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,figma,postman" />
 </p>
 
 ---
@@ -51,9 +46,9 @@
 
 ## 🚀 Featured Projects  
 
-🔹 [**Portfolio Website**](https://smughanibukari.github.io/) – Personal portfolio showcasing my skills & projects.  
-🔹 **News Intelligence Platform** – Next.js app with **advanced bot detection & security middleware**.  
-🔹 **MERN Stack Projects** – Scalable apps with authentication, CRUD, and API integrations.  
+🔹 [**Portfolio Website**](https://smughanibukari.github.io/) – Professional portfolio showcasing my projects & expertise.  
+🔹 **News Intelligence Platform** – Next.js app featuring **advanced UI & bot detection mechanisms**.  
+🔹 **Interactive UI Components** – Reusable and scalable components built with **React + Tailwind**.  
 
 ---
 
@@ -73,4 +68,4 @@
 
 ---
 
-⭐️ *"Code. Create. Innovate."*  
+⭐️ *"Designing seamless experiences, one line of code at a time."*  
