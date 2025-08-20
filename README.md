@@ -1,4 +1,4 @@
-# Hi, I'm Syed Muhammad Usama  
+# Hi 👋, I'm Syed Muhammad Usama  
 ### Lead Frontend Developer | React | Next.js | JavaScript Enthusiast  
 
 ---
@@ -19,11 +19,13 @@ Open to collaborating on innovative projects that push web technology forward.
 
 ---
 
-## GitHub Stats  
+## Experience  
 
-![Usama's GitHub stats](https://github-readme-stats.vercel.app/api?username=smughanibukari&show_icons=true&theme=default)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=smughanibukari&layout=compact&theme=default)  
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=smughanibukari&theme=default)  
+- **Lead Frontend Developer – TLC Holistic LLC**  
+  Leading frontend development, implementing scalable UI solutions, and ensuring application security and performance.  
+
+- **Full-Stack Projects (Personal & Collaborative)**  
+  Designed and developed interactive web applications with modern frontend technologies, focusing on performance and accessibility.  
 
 ---
 
@@ -32,6 +34,13 @@ Open to collaborating on innovative projects that push web technology forward.
 - [**Portfolio Website**](https://smughanibukari.github.io/) – Professional portfolio showcasing my projects and expertise.  
 - **News Intelligence Platform** – Next.js application featuring advanced UI and bot detection mechanisms.  
 - **Interactive UI Components** – Reusable and scalable components built with React + Tailwind.  
+
+---
+
+## Education  
+
+- **BS Computer Science** – Lahore Leads University  
+
 
 ---
 
