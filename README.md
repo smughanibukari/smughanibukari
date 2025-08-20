@@ -41,7 +41,7 @@ Open to collaborating on innovative projects that push web technology forward.
 ## Education  
 
 - **BS Computer Science** – Lahore Leads University  
-  CGPA: 2.96 / 4.00  
+
 
 ---
 
