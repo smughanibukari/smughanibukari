@@ -13,9 +13,20 @@ Open to collaborating on innovative projects that push web technology forward.
 
 ## Skills  
 
-**Languages & Core:** JavaScript (ES6+), TypeScript, HTML5, CSS3  
-**Frontend Frameworks & Libraries:** React.js, Next.js, Redux, Tailwind CSS, Bootstrap  
-**Tools & Platforms:** Git, GitHub, Vercel, Figma, Postman  
+**Languages & Core:**  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css" />
+</p>
+
+**Frontend Frameworks & Libraries:**  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap" />
+</p>
+
+**Tools & Platforms:**  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,figma,postman" />
+</p>
 
 ---
 
