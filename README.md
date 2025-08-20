@@ -4,7 +4,7 @@
 ---
 
 ## About Me  
-I am an experienced **Frontend Developer** specializing in **React.js and Next.js** with a strong foundation in **JavaScript (ES6+)**.  
+I am a **Frontend Developer with 4+ years of experience**, specializing in **React.js and Next.js** with a strong foundation in **JavaScript (ES6+)**.  
 I focus on building **secure, scalable, and high-performance** user interfaces.  
 Passionate about creating **pixel-perfect, accessible, and user-friendly** designs.  
 Open to collaborating on innovative projects that push web technology forward.  
@@ -19,16 +19,6 @@ Open to collaborating on innovative projects that push web technology forward.
 
 ---
 
-## Experience  
-
-- **Lead Frontend Developer – TLC Holistic LLC**  
-  Leading frontend development, implementing scalable UI solutions, and ensuring application security and performance.  
-
-- **Full-Stack Projects (Personal & Collaborative)**  
-  Designed and developed interactive web applications with modern frontend technologies, focusing on performance and accessibility.  
-
----
-
 ## Featured Projects  
 
 - [**Portfolio Website**](https://smughanibukari.github.io/) – Professional portfolio showcasing my projects and expertise.  
@@ -40,7 +30,7 @@ Open to collaborating on innovative projects that push web technology forward.
 ## Education  
 
 - **BS Computer Science** – Lahore Leads University  
-
+  CGPA: 2.96 / 4.00  
 
 ---
 
